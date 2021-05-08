@@ -15,7 +15,6 @@
         <li>Sandhika Galih</li>
         <li>Doddy Ferdiansyah</li>
         <li>Mikel</li>
-        <li>Johnny</li>
     </ul>
 </body>
 
